@@ -3,7 +3,7 @@
   "description": "Simple jsDAV setup",
   "version": "0.0.1",
   "dependencies": {
-    "jsDAV": "^0.3.2"
+    "jsDAV": "mikedeboer/jsDAV"
   },
   "engines": {
     "node": ">=0.10.0"
